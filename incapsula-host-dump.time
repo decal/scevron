@@ -1,0 +1,5 @@
+$ time ./incapsula-host-dump.rb > hosts-incapsula.txt
+
+real    209m37.110s
+user    5m42.826s
+sys     0m49.464s
